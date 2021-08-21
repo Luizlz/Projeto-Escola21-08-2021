@@ -1,0 +1,9 @@
+Projeto teve como foco uso de Css Dando maior atenção para seu
+E layout responsivo e sua arquitetura Organização do css, uso de Flexbox 
+
+Projeto imita o layout de um portal educacional onde tenta auxiliar os estudantes 
+com dicas de como manter o foco (Estudando) mostrando onde a unidade física se localiza
+apresentando página de vídeo aulas para estudantes (por causa de direitos autorais não foram linkados vídeos aulas de terceiros)
+e uma página que oferece cursos aos estudantes (ideia da página veio a partir de um curso feito pela Alura)
+
+em suma foco se trata de mostra o que é possível ser feito até momento pelo desenvolvedor Luiz Antonio em relação front-end.

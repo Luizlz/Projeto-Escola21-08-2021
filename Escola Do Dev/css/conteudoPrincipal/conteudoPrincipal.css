@@ -1,0 +1,38 @@
+.conteudoPrincipal {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/*Titulos */
+.titulo {
+	
+	font-size: 32px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding: 40px 0;
+}
+
+/*Subtitulos*/
+.subtitulos{
+	text-transform:  uppercase;
+	color: black;
+	font-size: 20px;
+	text-decoration:none;
+	margin: 0 0 0 25px;
+	padding: 1rem;
+	
+			
+}
+
+/*Textos*/
+.texto {
+	padding: 0.55rem;
+}
+
+/*mobile*/
+@media(min-width: 769px) {
+
+	.subtitulo {
+		text-align: center
+	}
+}
